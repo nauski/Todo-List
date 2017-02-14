@@ -304,6 +304,7 @@
 				F14653C81E4B7C93009C939C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
